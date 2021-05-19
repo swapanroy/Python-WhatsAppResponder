@@ -7,4 +7,4 @@ Python-WhatsApp Auto Responder
  pyperclip
  
  
- Reach me on my  ![LinkedIn](https://www.linkedin.com/in/swapanroy/) ![Twitter](https://twitter.com/royswapan)
+ Reach me on my  [LinkedIn](https://www.linkedin.com/in/swapanroy/) [Twitter](https://twitter.com/royswapan)
