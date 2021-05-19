@@ -5,3 +5,6 @@ Python-WhatsApp Auto Responder
  Coded using Python 3.7
  pyautogui
  pyperclip
+ 
+ 
+ Reach me on my  ![LinkedIn](https://www.linkedin.com/in/swapanroy/) ![Twitter](https://twitter.com/royswapan)
